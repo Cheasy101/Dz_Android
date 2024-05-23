@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DzAndroid1</string>
+    <string name="enter_city">город</string>
+    <string name="update_weather_by_city">обновить погоду по городу</string>
+    <string name="update_weather_by_current_place">по геолокации</string>
+    <string name="weather_icon">иконка погоды</string>
+    <string name="exit">Выход</string>
+</resources>
